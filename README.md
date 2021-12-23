@@ -2,6 +2,7 @@
 # Full-CICD-Flask
 
 1x EC2 Micro for Flask
+
 1x EC2 Micro for Jenkins
 
 
@@ -15,7 +16,7 @@
 2. Fill in application name and choose pipeline.After that click OK. This will create a pipeline based job on jenkins.
 3. Fill in the general details in jenkins like description and github URL.
 4. Check  **GitHub hook trigger for GITScm polling**  This will take update of project whenever we do changes in project and push the code.
-5. 1.  In pipeline section, write down the pipeline code.
+5. In pipeline section, write down the pipeline code.
 6. 
 pipeline:
 ```
