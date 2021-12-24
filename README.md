@@ -69,6 +69,17 @@ Enter the password you received in Administrator password field and click on “
 
 Next click in the recommended option of “Install suggested plugins”
 
-https://miro.medium.com/max/700/1*y0RL0OMGExb6NIJraoiy_A.png
+![image](https://miro.medium.com/max/700/1*y0RL0OMGExb6NIJraoiy_A.png)
+
+Next, it will provide you with the option of either continue as admin or create a user, choose whatever you like.
+
+Continue with your server’s IP as the Jenkins URL and click “Save and Finish”
+
+![image](https://user-images.githubusercontent.com/9726028/147325938-5124766f-d1cf-48be-b6d1-9115f79f059b.png)
+
+You are done with the setup process, now just click on “Start using Jenkins”
+
+And it land you on to the Jenkins Home Page.
+
 
 
