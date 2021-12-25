@@ -5,13 +5,14 @@
 
 1x EC2 Micro for Jenkins
 
+Prerequisite for Jenkins:
+-   Git installed on the system
+-   Docker installed on the system
+-   Docker Concepts/Understanding
+-   GitHub account
+-   Docker Hub account
 
 ## Install Flask
-### Install Git
-Check if Git is installed:
-```
-git --version
-```
 ### Install Docker
 ```
 curl -fsSL https://get.docker.com -o get-docker.sh
@@ -19,6 +20,10 @@ sudo sh get-docker.sh
 ```
 
 ## Install Jenkins
+### Install Git
+```
+sudo apt install git-all
+```
 ### Allow port 8080 on EC2
 Create a security group to allow inbound of port 8080 on EC2
 
