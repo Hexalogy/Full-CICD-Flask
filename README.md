@@ -8,6 +8,7 @@
 Prerequisite for Jenkins:
 -   Git installed on the system
 -   Docker installed on the system
+-   "Docker Pipeline" plug-in
 -   Docker Concepts/Understanding
 -   GitHub account
 -   Docker Hub account
